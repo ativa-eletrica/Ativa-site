@@ -1,0 +1,16 @@
+h2 { font-weight: 700; }
+h3 { text-transform: uppercase; padding-top:10px; }
+
+/* Sections */
+#intro .one-third { margin: 0; width: 33.333%; }
+#features .one-second:nth-child(1) .list_item .list_left { float: right; }
+#features .one-second:nth-child(1) .list_item .list_right { margin-left: 0; margin-right: 100px; text-align: right; }
+
+/* Links */
+a.read_more { background: url(http://orken.com.br/wp-content/uploads/2015/05/home_energy_arrow_right.png) no-repeat right center; padding-right: 21px; }
+a.arrow_link { background: url(http://orken.com.br/wp-content/uploads/2015/05/home_energy_arrow_right.png) no-repeat left center; padding-left: 21px; }
+
+/* Buttons */
+a.button, a.tp-button, button, input[type="submit"], input[type="reset"], input[type="button"] {
+    font-weight: 700;
+}
